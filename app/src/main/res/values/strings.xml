@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">HotelMonitoring</string>
+    <string name="checkoutlist_btn">Show Checkout List</string>
+    <string name="title_checkoutlist">Check Out Record</string>
+    <string name="stname">Name</string>
+    <string name="coreduedate">Due Date</string>
+    <string name="lbtitle">Book Title</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Happy Stay Hotel</string>
+    <string name="goCheckOut_btn">Check Out</string>
+    <string name="goDoQuery_btn">Do Query</string>
+    <string name="title_query">Query</string>
+    <string name="showresult_btn">Show Result</string>
+    <string name="goback">Back to Main Page</string>
+    <string name="showresult">Show Result</string>
+    <string name="query_prompt">Choose a query</string>
 </resources>
