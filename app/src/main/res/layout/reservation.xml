@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="==== Reservation Activities ===="
+        android:textSize="24sp"
+        android:padding="16dp" />
+
+    <Button
+        android:id="@+id/btn_view_reservations"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Reservations" />
+
+
+    <Button
+        android:id="@+id/btn_add_reservation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Reservation" />
+
+    <Button
+        android:id="@+id/btn_update_reservation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update Reservation" />
+
+    <Button
+        android:id="@+id/btn_delete_reservation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Delete Reservation" />
+
+    <Button
+        android:id="@+id/btn_back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Back to Main Menu" />
+
+</LinearLayout>
